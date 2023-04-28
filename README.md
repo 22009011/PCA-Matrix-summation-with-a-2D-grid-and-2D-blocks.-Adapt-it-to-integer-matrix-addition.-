@@ -39,6 +39,7 @@ Save and Run the Program.
 
 ## program :
 Developed By : THANJIYAPPAN.K
+
 Register No : 212222240108
 ```
 #include "common.h"
@@ -213,12 +214,10 @@ int main(int argc, char **argv)
 ```
 ## Output:
 ![image](https://user-images.githubusercontent.com/118343461/235121474-a2793bda-860c-4923-91f4-f9ba31685e67.png)
-
+```
 Matrix initialization : 6.338138 sec.
-
 Sum matrix on Host : 0.884061 sec.
-
 Sum matrix on GPU2D : 0.012146 sec.
-
+```
 ## Result:
 Integer Matrix summation with a 2D-grid and 2D-blocks is performed and the best execution configuration is found successfully.
